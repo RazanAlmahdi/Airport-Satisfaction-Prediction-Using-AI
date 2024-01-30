@@ -34,7 +34,7 @@ achieving nearly 96% accuracy and demonstrating similar ROC curves, while being 
 ## How to run the program
 * Clone the repository to your local machine:
 ```
-git clone https://github.com/AichaSidiya/AirportSatisfactionPrediction.git
+git clone https://github.com/RazanAlmahdi/Airport-Satisfaction-Prediction-Using-AI.git
 ``` 
 * Run on [Google Colab](https://research.google.com/colaboratory/)
 
